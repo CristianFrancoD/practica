@@ -12,7 +12,7 @@ git clone https://github.com/CristianFrancoD/practica.git
 ```
 docker run  -p 8090:8090 practica
 ```
-And open `http://localhost:8088` in your browser.
+
 
 # Building
 
